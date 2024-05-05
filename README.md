@@ -1,6 +1,6 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No 6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 1-5-24
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,13 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2024-05-05 172650](https://github.com/Sanafathima95773/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147084627/8cff9f10-8b7e-4a6e-b774-cb1d6b66278f)
+![Screenshot 2024-05-05 172715](https://github.com/Sanafathima95773/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147084627/0ef1225c-023b-4264-ae5d-78eaf4ef13a9)
+![Screenshot 2024-05-05 172750](https://github.com/Sanafathima95773/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147084627/db2888d0-fc8c-4ade-9861-c02216bb51f7)
 
-### Name:
-### Register Number:
+
+### Name: Sana Fathima H
+### Register Number: 212223240145
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
